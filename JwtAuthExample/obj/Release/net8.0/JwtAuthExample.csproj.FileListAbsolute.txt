@@ -1,0 +1,7 @@
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.csproj.AssemblyReference.cache
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.AssemblyInfoInputs.cache
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.AssemblyInfo.cs
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.csproj.CoreCompileInputs.cache
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\armanpoor\projects\backendDotNetCore\JwtAuthExample\obj\Release\net8.0\JwtAuthExample.MvcApplicationPartsAssemblyInfo.cache
